@@ -56,6 +56,7 @@ function calcAge1(birthYeah) {
     return 2037 - birthYeah;
   }
  console.log("hello");
+ console.log("hello");
   
   console.log(age1, age2);
   
